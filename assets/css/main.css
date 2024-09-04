@@ -1246,6 +1246,7 @@ section,
   padding: 120px 0;
   position: relative;
   clip-path: inset(0);
+  text-align: center;
 }
 
 .call-to-action img {
