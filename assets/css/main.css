@@ -2059,6 +2059,25 @@ section,
   color: var(--accent-color);
 }
 
+/* video */
+.video-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  /* background-color: #3d5784dc; */
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  
+}
+
+video {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+ 
+}
+
 /*--------------------------------------------------------------
 # Starter Section Section
 --------------------------------------------------------------*/
