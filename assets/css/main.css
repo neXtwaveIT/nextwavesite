@@ -91,8 +91,9 @@ h6 {
 ------------------------------*/
 .php-email-form .error-message {
   display: none;
-  background: #df1529;
+  background: #faf7f8;
   color: #ffffff;
+  
   text-align: left;
   padding: 15px;
   margin-bottom: 24px;
@@ -848,7 +849,7 @@ section,
 --------------------------------------------------------------*/
 .hero {
   width: 100%;
-  min-height: 80vh;
+  min-height: 100vh;
   position: relative;
   padding: 120px 0 60px 0;
   display: flex;
